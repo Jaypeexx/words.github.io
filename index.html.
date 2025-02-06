@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Words</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Enlace al archivo CSS -->
+</head>
+<body>
+
+    <header>
+        <h1>Bienvenido a Words</h1>
+        <p>Un espacio donde exploramos palabras interesantes y su significado.</p>
+    </header>
+
+    <section id="content">
+        <h2>Palabras destacadas:</h2>
+        <ul id="wordList">
+            <li><strong>Amor:</strong> Sentimiento de afecto y cariño hacia algo o alguien.</li>
+            <li><strong>Resiliencia:</strong> Capacidad de adaptarse frente a la adversidad.</li>
+            <li><strong>Esperanza:</strong> Confianza en que ocurrirán cosas buenas en el futuro.</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Words. Todos los derechos reservados.</p>
+    </footer>
+
+    <script src="app.js"></script> <!-- Enlace al archivo JavaScript -->
+</body>
+</html>
